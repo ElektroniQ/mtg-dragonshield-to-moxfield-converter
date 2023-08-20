@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mtg-dragonshield-to-moxfield-converter/static/css/main.e6c13ad2.css",
+    "main.js": "/mtg-dragonshield-to-moxfield-converter/static/js/main.063c56b2.js",
+    "static/js/787.0c8dbb39.chunk.js": "/mtg-dragonshield-to-moxfield-converter/static/js/787.0c8dbb39.chunk.js",
+    "index.html": "/mtg-dragonshield-to-moxfield-converter/index.html",
+    "main.e6c13ad2.css.map": "/mtg-dragonshield-to-moxfield-converter/static/css/main.e6c13ad2.css.map",
+    "main.063c56b2.js.map": "/mtg-dragonshield-to-moxfield-converter/static/js/main.063c56b2.js.map",
+    "787.0c8dbb39.chunk.js.map": "/mtg-dragonshield-to-moxfield-converter/static/js/787.0c8dbb39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.063c56b2.js"
+  ]
+}
